@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+
+## :star2: :star2: :star2: :star2: :star2: Hello from the other side :star2: :star2: :star2: :star2: :star2:
+
+
+### `Wedding Templates`
+- [Template 1](/wedding1/)
+- [Template 2](/wedding2/)
+- [Template 3](/wedding3/)
