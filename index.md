@@ -14,6 +14,6 @@ layout: home
 ## Demo Templates For ReservasiDulu :sunglasses:
 
 ### :couple: `Wedding Templates` :wedding:
-- Bruce & Natasha [Template 1](/wedding1/)
-- Peter & Mary [Template 2](/wedding2/)
-- L & F [Template 3](/wedding3/)
+- **Bruce & Natasha** [Template 1](/wedding1/)
+- **Peter & Mary** [Template 2](/wedding2/)
+- **Liam & Felicia** [Template 3](/wedding3/)
