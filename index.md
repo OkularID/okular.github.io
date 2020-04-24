@@ -7,10 +7,13 @@ layout: home
 
 
 ---
-## :star2: :star2: :star2: :star2: :star2: Hello from the other side :star2: :star2: :star2: :star2: :star2:
+## :star2: :star2: :star2: :star2: :star2: :collision: :tada: :tada: Hello From The Other Side :tada: :tada: :collision: :star2: :star2: :star2: :star2: :star2:
 ---
 
-### `Wedding Templates`
+
+## Demo Templates For ReservasiDulu :sunglasses:
+
+### :couple: `Wedding Templates` :wedding:
 - [Template 1](/wedding1/)
 - [Template 2](/wedding2/)
 - [Template 3](/wedding3/)
