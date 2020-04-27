@@ -11,9 +11,23 @@ layout: home
 ---
 
 
-## Demo Templates For ReservasiDulu :sunglasses:
+## Demo Templates For ReservasiDulu :sunglasses: 
+
+
+### :cake: :balloon: `Birthday Templates` :birthday:
+
+| Birthday      | Demo                         | Docs          |
+|---------------|------------------------------|---------------|
+| Christine   | [Template_1](#)                | Docs `None`   |
+| Anastasia   | [Template_2](/birthday2/)      | Docs `None`   |
+| `...`   | `...`      | `...`   |
+
 
 ### :couple: `Wedding Templates` :wedding:
-- **Bruce & Natasha** [Template 1](/wedding1/)
-- **Peter & Mary** [Template 2](/wedding2/)
-- **Liam & Felicia** [Template 3](/wedding3/)
+
+| Wedding           | Demo                         | Docs          |
+|-------------------|------------------------------|---------------|
+| Bruce & Natasha   | [Template_2](/birthday2/)    | [Docs](https://drive.google.com/drive/folders/1-LvdNwMLskNXL09XuHuZF1mmu4yQ2LdA) |
+| Peter & Mary      | [Template_2](/birthday2/)    | [Docs](https://drive.google.com/drive/folders/1b_0lvG4lAUX7hqtcxIeysmlqr-t-H8rL) |
+| Liam & Felicia    | [Template_2](/birthday2/)    | Docs `None`   |
+| `...`   | `...`      | `...`   |
