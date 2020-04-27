@@ -27,7 +27,7 @@ layout: home
 
 | Wedding           | Demo                         | Docs          |
 |-------------------|------------------------------|---------------|
-| Bruce & Natasha   | [Template_2](/birthday2/)    | [Docs](https://drive.google.com/drive/folders/1-LvdNwMLskNXL09XuHuZF1mmu4yQ2LdA) |
-| Peter & Mary      | [Template_2](/birthday2/)    | [Docs](https://drive.google.com/drive/folders/1b_0lvG4lAUX7hqtcxIeysmlqr-t-H8rL) |
-| Liam & Felicia    | [Template_2](/birthday2/)    | Docs `None`   |
+| Bruce & Natasha   | [Template_2](/wedding1/)    | [Docs](https://drive.google.com/drive/folders/1-LvdNwMLskNXL09XuHuZF1mmu4yQ2LdA) |
+| Peter & Mary      | [Template_2](/wedding2/)    | [Docs](https://drive.google.com/drive/folders/1b_0lvG4lAUX7hqtcxIeysmlqr-t-H8rL) |
+| Liam & Felicia    | [Template_2](/wedding3/)    | Docs `None`   |
 | `...`   | `...`      | `...`   |
