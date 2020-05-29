@@ -18,7 +18,7 @@ layout: home
 
 | Birthday      | Demo                         | Docs          |
 |---------------|------------------------------|---------------|
-| Christine   | [Template_1](#)                | Docs `None`   |
+| Christine   | [Template_1](/birthday1/)      | Docs `None`   |
 | Anastasia   | [Template_2](/birthday2/)      | Docs `None`   |
 | `...`   | `...`      | `...`   |
 
