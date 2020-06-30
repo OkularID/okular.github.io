@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">   
+    <title>Template Birthday | Homepage</title>
+    <link rel="shortcut icon" href="{{ '/assets/wedding/3/images/ico.ico' }}">
+    <!-- Customize css -->
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/animation.css" >    
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/css/default.css">
+    <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/assets/birthday/4/style-birthday-4.css">
+    <!-- Features css -->
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/features/animatecss/animate.min.css">
+    <!--Node Modules css-->
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/node_modules/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/node_modules/owl.carousel/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/node_modules/owl.carousel/dist/assets/owl.theme.default.min.css">
+</head>
+<body>
+
+    {% include birthday/4/birthday4.html %}
+
+    <h1 id="wishlist">Wishlist Sample</h1>
+
+    {% include birthday/4/wishlist4.html %}
+<!-- Features JS -->
+    <script type="text/javascript" src="{{site.baseurl}}/assets/features/animatecss/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+    <!-- Node Modules JS -->
+    <script type="text/javascript" src="{{site.baseurl}}/assets/node_modules/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="{{site.baseurl}}/assets/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="{{site.baseurl}}/assets/node_modules/owl.carousel/dist/owl.carousel.js"></script>
+    <!-- Custom JS -->
+    <script type="text/javascript" src="{{site.baseurl}}/assets/birthday/4/app.js"></script>
+
+</body>
+</html>
