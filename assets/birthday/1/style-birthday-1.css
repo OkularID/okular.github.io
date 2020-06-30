@@ -1,23 +1,23 @@
 /* Default */
 	@font-face{
 		font-family: "Raleway Regular";
-		src: url(Raleway-Regular.ttf) format("truetype");
+		src: url(../../fonts/Raleway-Regular.ttf) format("truetype");
 	}
 	@font-face{
 		font-family: "Raleway Medium";
-		src: url(Raleway-Medium.ttf) format("truetype");
+		src: url(../../fontsRaleway-Medium.ttf) format("truetype");
 	}
 	@font-face{
 		font-family: "Raleway Black";
-		src: url(Raleway-Black.ttf) format("truetype");
-	}
+		src: url(../../fonts/Raleway-Black.ttf) format("truetype");
+    }
 	@font-face{
 		font-family: "Raleway Bold";
-		src: url(Raleway-Bold.ttf) format("truetype");
+		src: url(../../fonts/Raleway-Bold.ttf) format("truetype");
 	}
 	@font-face{
 		font-family: "Raleway ExtraBold";
-		src: url(Raleway-ExtraBold.ttf) format("truetype");
+		src: url(../../fonts/Raleway-ExtraBold.ttf) format("truetype");
 	}
 	.container-fluid{position: relative;}
 	h1, h2, h3, h4, h5, h6{font-family: "Raleway Medium";}
